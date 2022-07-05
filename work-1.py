@@ -1,0 +1,12 @@
+print("hello M.6/14")
+print("Name Jiratchaya")
+print("lastName Boonarkad")
+print("nickName Tawan")
+print("age:17")
+print("birthDay: 18 november 2004")
+print("sex: female")
+print("school: chonradsadornumrung")
+print("phone: 0849895993")
+print("hobbies: play basketball,read novel")
+print("my favourite color : green")
+#ชื่อ จิรัชยา บุญอากาศ ม.6/14 เลขที่ 35
